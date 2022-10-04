@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b43aefd0628668479aae78f371ba192, type: 3}
+  m_Name: Sushi
+  m_EditorClassIdentifier: 
+  name: Sushi
+  stats: 
+  description: Reset your cards.
+  cost: 3
+  food: 4
+  decreaseRateModifier: 0
+  costModifier: 0
+  foodModifier: 0
+  artWork: {fileID: 21300000, guid: 802057e1f8c41a5458207e9c89111a51, type: 3}
+  cardEvent: {fileID: 11400000, guid: 380c6dd52245bd740af57ba6f6a77555, type: 2}
